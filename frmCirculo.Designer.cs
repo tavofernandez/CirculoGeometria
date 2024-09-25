@@ -249,6 +249,7 @@ namespace CirculoGeometria
             this.Controls.Add(this.label1);
             this.Name = "frmCirculo";
             this.Text = "frmCirculo";
+            this.Load += new System.EventHandler(this.frmCirculo_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();

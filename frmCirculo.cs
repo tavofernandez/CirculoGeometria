@@ -16,7 +16,16 @@ namespace CirculoGeometria
             InitializeComponent();
         }
 
+        double radio, area;
+        double pi = Math.PI;
+        double longitud;
+
         private void groupBox1_Enter(object sender, EventArgs e)
+        {
+
+        }
+
+        private void frmCirculo_Load(object sender, EventArgs e)
         {
 
         }
