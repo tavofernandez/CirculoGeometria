@@ -1,0 +1,8 @@
+C:\Users\TAVO\source\repos\CirculoGeometria\bin\Debug\CirculoGeometria.exe
+C:\Users\TAVO\source\repos\CirculoGeometria\bin\Debug\CirculoGeometria.pdb
+C:\Users\TAVO\source\repos\CirculoGeometria\obj\Debug\CirculoGeometria.csproj.AssemblyReference.cache
+C:\Users\TAVO\source\repos\CirculoGeometria\obj\Debug\CirculoGeometria.Properties.Resources.resources
+C:\Users\TAVO\source\repos\CirculoGeometria\obj\Debug\CirculoGeometria.csproj.GenerateResource.cache
+C:\Users\TAVO\source\repos\CirculoGeometria\obj\Debug\CirculoGeometria.csproj.CoreCompileInputs.cache
+C:\Users\TAVO\source\repos\CirculoGeometria\obj\Debug\CirculoGeometria.exe
+C:\Users\TAVO\source\repos\CirculoGeometria\obj\Debug\CirculoGeometria.pdb
